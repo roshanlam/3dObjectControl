@@ -6,9 +6,9 @@
 ## Run It
 
 ### Clone the repository
-$ git clone https://github.com/roshanlam/3dObjectControl
+$ git clone https://github.com/roshanlam/3dObjectControl/tree/master/software
 ### Go into the repository
-$ cd electron-quick-start
+$ cd software
 ### Install dependencies
 $ npm install
 ### Run the app
