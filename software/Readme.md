@@ -1,5 +1,4 @@
 
 # Build With 
 
-* Python 
 * ElectronJS 
